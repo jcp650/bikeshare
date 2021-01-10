@@ -7,3 +7,4 @@ In this project, the client requested detailed data visualizations using Tableau
 
 ![](images/checkout_times_by_users.png)
 
+

@@ -25,3 +25,10 @@ This graph shows the most popular ending locations for bikes to be dropped off. 
 
 This graph shows the most popular weekdays to rent bikes, broken down by the most popular hours. It appears that Thursday at 5 or 6 PM are the most popular times for people to rent bikes.
 
+![](images/trips_by_gender_by_day.png)
+
+This graph is similar to the last, but breaks down the most popular days and times by gender. Again, this graph confirms that men are more likely to rent bikes, and that Thursday evening is the most popular time to rent bikes.
+
+![](images/trips_by_gender_by_weekday_by_user.png)
+
+This graph takes the last graph and inserts a variable for usertype. This graph shows that subscribers are the most frequent customers, and subscribers are most likely to rent bikes on Thursdays.

@@ -1,4 +1,4 @@
-# Bikesharing Startup Tableau Visualizations
+# Bikeshare Startup Tableau Visualizations
 
 ## Project Overview
 In this project, the client requested detailed data visualizations using Tableau with the purpose of creating a business plan for a bikeshare startup. CSV files were provided containing CitiBike data from New York, which was used as a user behavior model for the proposed business.
@@ -32,3 +32,12 @@ This graph is similar to the last, but breaks down the most popular days and tim
 ![](images/trips_by_gender_by_weekday_by_user.png)
 
 This graph takes the last graph and inserts a variable for usertype. This graph shows that subscribers are the most frequent customers, and subscribers are most likely to rent bikes on Thursdays.
+
+## Summary
+
+This data should prove useful in helping the client effectively implement a successful business strategy. The most important insights that this data shows are:
+- The customer base is made up of more men than women.
+- The most popular days to rent bikes are Thursdays, and the most popular time is 5 or 6 PM.
+- The most frequent amount of trip durations were between 5 and 6 minutes.
+- The most popular starting and ending locations are near scenic areas, where high concentrations of tourists are likely to be.
+It should be noted that the insights gained from this data is promising, but the transition of these insights to a new geographic location with different customers could impose problems. The new user demographics and locations will have to be assessed prior to launch, and should these insights should inform how the marketing and outreach is conducted. 

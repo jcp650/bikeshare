@@ -7,4 +7,7 @@ In this project, the client requested detailed data visualizations using Tableau
 
 ![](images/checkout_times_by_user.png)
 
+This graph breaks the length of trips by the amount of bike rentals. As demonstrated by the graph, most bikes were rented and used for about 5 to 6 minutes.
+
+![](images/checkout_times_by_gender.png)
 

@@ -1,7 +1,7 @@
 # Bikeshare Startup Tableau Visualizations
 
 ## Project Overview
-In this project, the client requested detailed data visualizations using Tableau with the purpose of creating a business plan for a bikeshare startup. CSV files were provided containing CitiBike data from New York, which was used as a user behavior model for the proposed business. Here is the [link to the dashboard.](https://us-west-2b.online.tableau.com/#/site/johnphillipsdashboards/workbooks/315460/views)
+In this project, the client requested detailed data visualizations using Tableau with the purpose of creating a business plan for a bikeshare startup. CSV files were provided containing CitiBike data from New York, which was used as a user behavior model for the proposed business. Here is the [link to the dashboard.](https://public.tableau.com/profile/john.phillips5685#!/vizhome/Challenge_16103031703150/CheckoutTimesbyUsers)
 
 ## Results
 

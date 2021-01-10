@@ -5,6 +5,5 @@ In this project, the client requested detailed data visualizations using Tableau
 
 ## Results
 
-![](images/checkout_times_by_users.png)
 
 

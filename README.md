@@ -17,11 +17,11 @@ This graph shows the amoutn of bikes rented and the amount of time they were ren
 
 This graph shows the most popular starting locations for bike rentals. These locations would be good places to place bike rental stations.
 
-![](images/top_ending_locations.png)
+![](images/top_ending_location.png)
 
 This graph shows the most popular ending locations for bikes to be dropped off. These locations would be good for maintenance workers to pick up bikes.
 
-![](trips_by_dy_by_hour.png)
+![](images/trips_by_dy_by_hour.png)
 
 This graph shows the most popular weekdays to rent bikes, broken down by the most popular hours. It appears that Thursday at 5 or 6 PM are the most popular times for people to rent bikes.
 

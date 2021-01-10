@@ -35,9 +35,10 @@ This graph takes the last graph and inserts a variable for usertype. This graph 
 
 ## Summary
 
-This data should prove useful in helping the client effectively implement a successful business strategy. The most important insights that this data shows are:
+This data should prove useful in helping the client effectively implement a successful business strategy. The most important insights from these data visualizations are:
 - The customer base is made up of more men than women.
 - The most popular days to rent bikes are Thursdays, and the most popular time is 5 or 6 PM.
 - The most frequent amount of trip durations were between 5 and 6 minutes.
 - The most popular starting and ending locations are near scenic areas, where high concentrations of tourists are likely to be.
-It should be noted that the insights gained from this data is promising, but the transition of these insights to a new geographic location with different customers could impose problems. The new user demographics and locations will have to be assessed prior to launch, and should these insights should inform how the marketing and outreach is conducted. 
+
+It should be noted that the insights gained from this data are promising, but the transition of these insights to a new geographic location with different customers could pose problems. The new user demographics and locations will have to be assessed prior to launch, and these insights should inform how the marketing and outreach is conducted. Further, the placement of bike stations near scenic locations where tourists frequent is more possible in a city like New York, as opposed to other cities which might have less tourists and scenic locations. All of this should be factored into the business strategy, and should inform the scale and launch of the business.

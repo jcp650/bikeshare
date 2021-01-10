@@ -11,3 +11,5 @@ This graph breaks the length of trips by the amount of bike rentals. As demonstr
 
 ![](images/checkout_times_by_gender.png)
 
+This graph shows the amoutn of bikes rented and the amount of time they were rented, as well as which gender rented them. This graph shows that men were the most frequent customers for Citibikes in august of 2019.
+
